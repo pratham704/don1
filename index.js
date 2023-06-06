@@ -1,7 +1,7 @@
 const express = require('express');
 
 const cors = require('cors')
-const abc = require('./contactmodel');
+
 const app = express();
 const dotenv = require('dotenv')
 dotenv.config();
