@@ -13,11 +13,7 @@ app.use(express.json());
 
 
 
-app.use("/", (req, res) => {
 
-    res.json("Pratham here")
-
-})
 
 
 
